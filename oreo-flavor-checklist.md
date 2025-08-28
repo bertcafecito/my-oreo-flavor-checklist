@@ -2,10 +2,10 @@
 A comprehensive checklist of Oreo cookie flavors by decade and year. Mark the ones you've tried!
 
 ## 1910s
-- [ ] Original Oreo (1912)
+- [x] Original Oreo (1912)
 
 ## 1970s
-- [ ] Double Stuf Oreo (1974)
+- [x] Double Stuf Oreo (1974)
 - [ ] Football Oreo (1976)
 
 ## 1980s
@@ -13,7 +13,7 @@ A comprehensive checklist of Oreo cookie flavors by decade and year. Mark the on
 - [ ] Double Delight Oreo (1987)
 
 ## 1990s
-- [ ] Oreo Mini (1991)
+- [x] Oreo Mini (1991)
 
 ## 2000s
 
@@ -22,7 +22,7 @@ A comprehensive checklist of Oreo cookie flavors by decade and year. Mark the on
 - [ ] Strawberry Creme Oreo
 
 ### 2004
-- [ ] Golden Oreo
+- [x] Golden Oreo
 
 ### 2006
 - [ ] Organic Oreo
@@ -48,10 +48,10 @@ A comprehensive checklist of Oreo cookie flavors by decade and year. Mark the on
 - [ ] Berry Burst Ice Cream Oreo
 
 ### 2012
-- [ ] Birthday Cake Oreo
+- [x] Birthday Cake Oreo
 - [ ] Birthday Cake Oreo - Fudge Dipped Vanilla
-- [ ] Candy Cane Oreo
-- [ ] Candy Corn Oreo
+- [x] Candy Cane Oreo
+- [x] Candy Corn Oreo
 - [ ] The American Creme Oreo
 - [ ] Lemon Twist Oreo
 - [ ] Triple Double Neapolitan Oreo
@@ -78,49 +78,49 @@ A comprehensive checklist of Oreo cookie flavors by decade and year. Mark the on
 - [ ] Marshmallow Crispy Oreos
 
 ### 2015
-- [ ] Red Velvet Oreo
-- [ ] Cotton Candy Oreo
-- [ ] S'mores Oreo
+- [x] Red Velvet Oreo
+- [x] Cotton Candy Oreo
+- [x] S'mores Oreo
 - [ ] Key Lime Pie Oreo
-- [ ] Brownie Batter Oreo
-- [ ] Cookies & Creme Oreo
+- [x] Brownie Batter Oreo
+- [x] Cookies & Creme Oreo
 - [ ] Toasted Coconut Oreo
-- [ ] Oreo Thins
+- [x] Oreo Thins
 
 ### 2016
-- [ ] Cinnamon Bun Oreos
+- [x] Cinnamon Bun Oreos
 - [ ] Filled Cupcake Oreos
 - [ ] Fruity Crisps Oreo
-- [ ] Blueberry Pie Oreo
+- [x] Blueberry Pie Oreo
 - [ ] Chocolate Strawberry Oreo
-- [ ] Swedish Fish Oreo
+- [x] Swedish Fish Oreo
 
 ### 2017
-- [ ] Peeps Oreo
-- [ ] Firework Oreo
-- [ ] Mississippi mud pie Oreo
+- [x] Peeps Oreo
+- [x] Firework Oreo
+- [x] Mississippi mud pie Oreo
 - [ ] Jelly Donut Oreo
-- [ ] Waffles & Syrup Oreo
+- [x] Waffles & Syrup Oreo
 - [ ] Dunkin' Donuts Mocha Oreo
 - [ ] PB&J Oreo
-- [ ] Cookie Butter Oreo
-- [ ] Apple Pie Oreo
-- [ ] Mystery Oreos (Fruity Pebbles)
+- [x] Cookie Butter Oreo
+- [x] Apple Pie Oreo
+- [x] Mystery Oreos (Fruity Pebbles)
 - [ ] Dark and White Chocolate Oreo
 - [ ] Crispy Tiramisu Oreo (Japan)
 
 ### 2018
-- [ ] Chocolate Hazelnut Oreo
+- [x] Chocolate Hazelnut Oreo
 - [ ] Spicy Hot Cinnamon Oreo
-- [ ] Hot Cocoa Oreo
-- [ ] Cherry Cola Oreo
+- [x] Hot Cocoa Oreo
+- [x] Cherry Cola Oreo
 - [ ] Kettle Corn Oreo
-- [ ] Pina Colada Oreo thins
+- [x] Pina Colada Oreo thins
 - [ ] Good Humor Strawberry Shortcake Oreo
 - [ ] Chocolate Peanut Butter Pie Oreo
-- [ ] Rocky Road Trip Oreo
+- [x] Rocky Road Trip Oreo
 - [ ] Peppermint Bark Oreo
-- [ ] Mickey Mouse Oreo
+- [x] Mickey Mouse Oreo
 - [ ] Hot Chicken Wing Oreo (China)
 - [ ] Wasabi Oreo (China)
 - [ ] Choc'o Brownie Oreo
@@ -128,11 +128,11 @@ A comprehensive checklist of Oreo cookie flavors by decade and year. Mark the on
 ### 2019
 - [ ] Dark Chocolate Oreo
 - [ ] Love Oreo
-- [ ] Carrot Cake Oreo
+- [x] Carrot Cake Oreo
 - [ ] Game of Thrones Oreo
 - [ ] Marshmallow Moon Oreo
 - [ ] Mint Chocolate Chip Oreo
-- [ ] Mystery Oreo (Churro)
+- [x] Mystery Oreo (Churro)
 - [ ] The Most Stuf
 - [ ] Easter Egg Oreo
 
@@ -152,10 +152,10 @@ A comprehensive checklist of Oreo cookie flavors by decade and year. Mark the on
 - [ ] Brookie-O Brownie Oreo
 - [ ] Java Chip Oreo
 - [ ] Gluten Free Oreo
-- [ ] Salted Caramel Brownie Oreo
+- [x] Salted Caramel Brownie Oreo
 - [ ] Apple Cider Donut Oreo
 - [ ] Pokémon Oreos
-- [ ] S'mores Oreo (re-released)
+- [x] S'mores Oreo (re-released)
 
 ### 2022
 - [ ] Oreo Thins Extra Stuf
@@ -168,34 +168,34 @@ A comprehensive checklist of Oreo cookie flavors by decade and year. Mark the on
 - [ ] Snickerdoodle Oreo
 - [ ] Triple Double Neapolitan Oreo (re-released)
 - [ ] Pumpkin Spice Oreo (returned)
-- [ ] Brookie-O Brownie Oreo (re-released)
+- [x] Brookie-O Brownie Oreo (re-released)
 
 ### 2023
 - [ ] The Most Oreo Oreo
 - [ ] Blackout Cake Oreo
 - [ ] Super Mario Oreos
-- [ ] S'mOREO (S'mores re-released)
-- [ ] Cotton Candy Oreo (re-released)
+- [x] S'mOREO (S'mores re-released)
+- [x] Cotton Candy Oreo (re-released)
 
 ### 2024
-- [ ] Black & White Oreo
+- [x] Black & White Oreo
 - [ ] Space Dunk Oreos
-- [ ] Oreo Dirt Cake
+- [x] Oreo Dirt Cake
 - [ ] Star Wars Oreo
-- [ ] Oreo Coca-Cola
+- [x] Oreo Coca-Cola
 - [ ] Mint Chocolate Chip Oreo (re-released)
-- [ ] Mystery Oreo (re-released)
+- [x] Mystery Oreo (re-released)
 
 ### 2025
-- [ ] Post Malone Oreos
-- [ ] Chocolate Covered Pretzel Oreos
-- [ ] Selena Gomez Oreos
+- [x] Post Malone Oreos
+- [x] Chocolate Covered Pretzel Oreos
+- [x] Selena Gomez Oreos
 - [ ] Reese's Oreos
 - [ ] Delicias de Guayaba Oreo (Venezuela)
-- [ ] Apple Pie A La Mode Oreos
+- [x] Apple Pie A La Mode Oreos
 - [ ] Oreo Loaded
 - [ ] Birthday Cake Golden Oreo (limited time)
-- [ ] Blueberry Pie Oreo (re-released)
+- [x] Blueberry Pie Oreo (re-released)
 
 ## International & Regional Varieties (Various Years)
 - [ ] Android Oreo (limited promotion)
